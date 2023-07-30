@@ -13,7 +13,7 @@
 - TypeScript
   - 4
 - React
-  - 18f
+  - 18
 
 ## Start Server
 
