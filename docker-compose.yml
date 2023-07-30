@@ -17,7 +17,7 @@ services:
       - db
   client:
     build: ./client
-    command: yarn start
+    command: npm run start
     volumes:
       - ./client:/app:delegated
     ports:

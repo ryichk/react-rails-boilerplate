@@ -10,8 +10,10 @@
   - 8.0
 - Node.js
   - 16
+- TypeScript
+  - 4
 - React
-  - 18
+  - 18f
 
 ## Start Server
 
