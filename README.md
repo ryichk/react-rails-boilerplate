@@ -32,3 +32,9 @@ docker-compose exec api rails db:create
 ```sh
 docker-compose exec api rubocop -a
 ```
+
+## Run ESLint and Prettier
+
+```sh
+docker-compose exec client npm run fix
+```
