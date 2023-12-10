@@ -26,3 +26,9 @@ docker-compose up
 ```sh
 docker-compose exec api rails db:create
 ```
+
+## Run RuboCop in an autocorrect mode
+
+```sh
+docker-compose exec api rubocop -a
+```
