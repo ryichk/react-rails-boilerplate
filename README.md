@@ -5,7 +5,7 @@
 - Ruby
   - 3.3.1
 - Ruby on Rails
-  - 7.1.2
+  - 7.1.3
 - MySQL
   - 8.0
 - Node.js
