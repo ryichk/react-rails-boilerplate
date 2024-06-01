@@ -9,7 +9,7 @@
 - MySQL
   - 8.0
 - Node.js
-  - 16
+  - 20
 - TypeScript
   - 4
 - React
